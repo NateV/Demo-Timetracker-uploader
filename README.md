@@ -1,6 +1,6 @@
 # Timekeeping demo
 
-This is a very basic demo site  for demonstrating how time tracking can  work in a case management system.  I have created this site for the  Philadelphia  social justice hackathon of October 2022.
+This is a very basic demo site  for demonstrating how a local tool might be able to upload timeslips to a case management system.  I have created this site for the  Philadelphia  social justice hackathon of October 2022.
 
 If you are working on the hackathon challenge related to voice controlled time tracking,  then you can use this site  to show you what would be required to upload  time slip data  from a local computer to the case management system.
 
